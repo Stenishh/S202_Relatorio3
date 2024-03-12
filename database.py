@@ -1,6 +1,6 @@
 from typing import Collection
 import pymongo # pip install pymongo
-from dataset.pokedex import dataset
+from pokedex.pokedex import dataset
 
 
 class Database:
